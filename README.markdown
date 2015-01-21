@@ -23,6 +23,8 @@ SELinux boolean are not part of this module as there's a resource type
 (selboolean) that puppet provides. This module use the other SELinux resource
 type, selmodule to load the module.
 
+This project has been forked from https://github.com/spiette/puppet-selinux as we needed a version that worked this Centos7. The original project appears to have been abandonded.
+
 # Requirements
 - puppet >= 2.7
 - RedHat/Fedora based distribution
