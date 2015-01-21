@@ -31,7 +31,7 @@ This project has been forked from https://github.com/spiette/puppet-selinux as w
 
 # Installation
 <pre>
-puppet module install spiette/selinux
+puppet module install continuent/selinux
 </pre>
 
 # Synopsys
