@@ -1,0 +1,14 @@
+{
+  "name": "continuent-selinux",
+  "version": "0.6.1",
+  "author": "spiette",
+  "summary": "This class manages SELinux on RHEL based systems.",
+  "license": "Apache License, Version 2.0",
+  "source": "http://github.com/continuent/puppet-selinux",
+  "project_page": "http://github.com/continuent/puppet-selinux",
+  "issues_url": "https://github.com/continuent/puppet-selinux/issues",
+  "description": "This class manages SELinux on RHEL based systems.",
+  "dependencies": [
+  
+  ]
+}
